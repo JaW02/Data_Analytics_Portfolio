@@ -27,5 +27,7 @@
       *
 * ## **SQL & Tableau Projects**
     * **Olist revenue analysis and dashboard:**<br />
-    ~ View the SQL script [HERE]<br />
+    ~ View the SQL database creation script [HERE].<br />
+    ~ View the SQL data insertion script [HERE].<br />
+    ~ View the SQL analysis script [HERE]<br />
     ~ View the tableau dashboard **[HERE](https://public.tableau.com/app/profile/jake3064/viz/OlistRevenueAnalysis/Dashboard)**.<br />
