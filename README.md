@@ -21,6 +21,10 @@
       * *abc*
       * *def*
       * *ghi*
+    * **A/B test video game feature change:**<br />
+    ~ View the project [HERE].<br />
+    This Project Includes:
+      *
 * ## **SQL & Tableau Projects**
     * **Olist revenue analysis and dashboard:**<br />
     ~ View the SQL script [HERE]<br />
