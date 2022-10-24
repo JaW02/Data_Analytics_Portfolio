@@ -20,8 +20,8 @@
     This project includes:
       * *abc*
       * *def*
-      * *hij*
+      * *ghi*
 * ## **SQL & Tableau Projects**
     * **Olist revenue analysis and dashboard:**<br />
     ~ View the SQL script [HERE]<br />
-    ~ View the tableau dashboard [HERE]<br />
+    ~ View the tableau dashboard **[HERE](https://public.tableau.com/app/profile/jake3064/viz/OlistRevenueAnalysis/Dashboard)**.<br />
