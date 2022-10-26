@@ -27,7 +27,7 @@
       *
 * ## **SQL & Tableau Projects**
     * **Olist revenue analysis and dashboard:**<br />
-    ~ View The Python Data Cleaning Script [HERE]<br />
+    ~ View The Python Data Cleaning Script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/olist_revenue_dashboard/olist_data_cleaning.ipynb)**<br />
     ~ View the SQL database creation script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/olist_revenue_dashboard/create_tables_script.sql)**.<br />
     ~ View the SQL data insertion scripts **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/tree/main/olist_revenue_dashboard/sql_data_insertion_scripts)**.<br />
     ~ View the SQL analysis script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/olist_revenue_dashboard/olist_analytics.sql)**<br />
