@@ -22,7 +22,8 @@
       * *def*
       * *ghi*
     * **A/B test video game feature change:**<br />
-    ~ View the project [HERE].<br />
+    ~ View the python script [HERE].<br />
+    ~ Viewn the datapane report [HERE].<br />
     This Project Includes:
       *
 * ## **SQL & Tableau Projects**
