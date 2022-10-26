@@ -23,7 +23,7 @@
       * *ghi*
     * **A/B test video game feature change:**<br />
     ~ View the python script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/ab_test/game_feature_ab_test.ipynb)**.<br />
-    ~ Viewn the datapane report [HERE].<br />
+    ~ View the datapane report [HERE].<br />
     This Project Includes:
       *
 * ## **SQL & Tableau Projects**
