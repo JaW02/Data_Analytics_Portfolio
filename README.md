@@ -32,3 +32,7 @@
     ~ View the SQL data insertion scripts **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/tree/main/olist_revenue_dashboard/sql_data_insertion_scripts)**.<br />
     ~ View the SQL analysis script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/olist_revenue_dashboard/olist_analytics.sql)**<br />
     ~ View the tableau dashboard **[HERE](https://public.tableau.com/app/profile/jake3064/viz/OlistRevenueAnalysis/Dashboard)**.<br />
+* ## **Python & Tableau Projects**
+    * **Tottenham Hostpur fixture analysis dashboard:**<br />
+    ~ View the Python data cleaning | variable creation | web scrape script [HERE]<br />
+    ~ View the tableau dashboard [HERE]
