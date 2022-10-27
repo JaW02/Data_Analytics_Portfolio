@@ -4,15 +4,17 @@
     *  **The prediction of a bank term subsciption for target marketing:**<br />
     ~ View the project repositiory **[HERE](https://github.com/JaW02/term_subscription_project)**.<br />
     This Project includes:
-        * *Data Cleaning*
-        * *Data Exploration (insert steps of exploration)*
+        * *Data Cleaning (nan/unknown values, date types, duplicate data, outliers)*
+        * *Data Exploration (distribution analysis, feature/target analysis, correlation analysis)*
         * *Expected Value Formulation*
         * *Feature Engineering*
-        * *Machine Learning*
+        * *Feature Selection*
+        * *Machine Learning (baseline, classification, under/oversampling, tuning)*
+        * *Visualisations*
     * **Forecasting household gas usage and usage optimisation application:**<br />
     ~ View the project repository **[HERE](https://github.com/JaW02/household-gas-forecast)**.<br />
     This project includes:
-      * *Data cleaning (nan values, duplicates, outliers)*
+      * *Data cleaning (nan values, data types, duplicates, outliers)*
       * *Data exploration (feature/target analysis, correlation analysis, statistical significance)*
       * *Machine Learning*
       * *Time Series Forecasting*
