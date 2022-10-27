@@ -12,8 +12,11 @@
     * **Forecasting household gas usage and usage optimisation application:**<br />
     ~ View the project repository **[HERE](https://github.com/JaW02/household-gas-forecast)**.<br />
     This project includes:
-      * *abc*
-      * *def*
+      * *Data cleaning (nan values, duplicates, outliers)*
+      * *Data exploration (feature/target analysis, correlation analysis, statistical significance)*
+      * *Machine Learning*
+      * *Time Series Forecasting*
+      * *Model Tuning*
       * *Dashboard Application*
     * **Football team probability estimation:**<br />
     ~ View the project repository **[HERE](https://github.com/JaW02/The-Advantage-Over-Bookmakers)**.<br />
