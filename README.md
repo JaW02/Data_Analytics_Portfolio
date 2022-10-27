@@ -16,16 +16,19 @@
     This project includes:
       * *Data cleaning (nan values, data types, duplicates, outliers)*
       * *Data exploration (feature/target analysis, correlation analysis, statistical significance)*
-      * *Machine Learning*
+      * *Machine Learning (baseline, regression, tuning)*
       * *Time Series Forecasting*
       * *Model Tuning*
       * *Dashboard Application*
     * **Football team probability estimation:**<br />
     ~ View the project repository **[HERE](https://github.com/JaW02/The-Advantage-Over-Bookmakers)**.<br />
     This project includes:
-      * *abc*
-      * *def*
-      * *ghi*
+      * *Data cleaning (nan values, imputation, duplicate data, outliers)*
+      * *Data Exploration (distribution analysis, normality statistical tests, correlation analysis, pca)*
+      * *Feature/target engineering*
+      * *Feature Selection*
+      * *Machine Learning (baseline, classification, sampling, tuning)*
+      * *Visualisations*
     * **A/B test video game feature change:**<br />
     ~ View the python script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/ab_test/game_feature_ab_test.ipynb)**.<br />
     ~ View the datapane report [HERE].<br />
