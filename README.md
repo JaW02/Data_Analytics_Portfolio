@@ -33,7 +33,12 @@
     ~ View the python script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/ab_test/game_feature_ab_test.ipynb)**.<br />
     ~ View the datapane report [HERE].<br />
     This Project Includes:
-      *
+      * *Hypothesis formulation*
+      * *Power analysis*
+      * *Data Cleaning (nan values, duplicate data)*
+      * *Data analysis*
+      * *Hypothesis Testing*
+      * *Report*
 * ## **SQL & Tableau Projects**
     * **Olist revenue analysis and dashboard:**<br />
     ~ View The Python Data Cleaning Script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/olist_revenue_dashboard/olist_data_cleaning.ipynb)**<br />
