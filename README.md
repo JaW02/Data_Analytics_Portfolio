@@ -52,4 +52,10 @@
     ~ View the tableau dashboard **[HERE](https://public.tableau.com/app/profile/jake3064/viz/tottenham_analytics/Dashboard2)**
 * ## **Excel Projects**
    * **Marketing Campaign Response Analysis:**<br />
-   ~ View the excel file  **[HERE]()**<br />
+   ~ Download the excel file  **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/marketing_campaign_analysis/marketing_campaign.xlsm)**<br />
+   This project includes:
+      * *Data Cleaning*
+      * *Feature Creation*
+      * *Functions*
+      * *Analysis Dashboard*<br />
+   ![Marketing Campaign Analysis dashboard]()
