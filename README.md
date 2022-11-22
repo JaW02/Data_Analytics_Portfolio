@@ -58,5 +58,6 @@
       * *Feature Creation*
       * *Functions*
       * *VBA/Macros*
+      * *Slicers*
       * *Analysis Dashboard*<br />
 ![Marketing Campaign Analysis dashboard](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/marketing_campaign_analysis/MarketingDashboard.png "Marketing Campaign Analysis Dashboard")
