@@ -49,7 +49,7 @@
 * ## **SQL Analysis Projects**
     ~ Analyzing Channel Portfolios, View script **[HERE](SQL_Analysis/analyzing_channel_portfolios.sql)**.<br />
     ~ Business Patterns & Seasonality, View script **[HERE](SQL_Analysis/business_patterns_&_seasonality.sql)**.<br />
-    **[Product Level Analysis]()**.<br />
+    ~ Product Level Analysis, View script **[HERE](SQL_Analysis/product_level_analysis.sql)**.<br />
 * ## **Python & Tableau Projects**
     * **Tottenham Hostpur fixture analysis dashboard:**<br />
     ~ View the Python data cleaning | variable creation | web scrape script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/tottenham_analysis_dashboard/tottenham_analytics_data.ipynb)**<br />
