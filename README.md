@@ -48,7 +48,7 @@
     ~ View the tableau dashboard **[HERE](https://public.tableau.com/app/profile/jake3064/viz/OlistRevenueAnalysis/Dashboard)**.<br />
 * ## **SQL Analysis Projects**
     ~ Analyzing Channel Portfolios, View script **[HERE](SQL_Analysis/analyzing_channel_portfolios.sql)**.<br />
-    **[Business Patterns & Seasonality]()**.<br />
+    ~ Business Patterns & Seasonality, View script **[HERE](SQL_Analysis/business_patterns_&_seasonality.sql)**.<br />
     **[Product Level Analysis]()**.<br />
 * ## **Python & Tableau Projects**
     * **Tottenham Hostpur fixture analysis dashboard:**<br />
