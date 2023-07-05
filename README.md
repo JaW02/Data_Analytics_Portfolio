@@ -46,8 +46,8 @@
     ~ View the SQL data insertion scripts **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/tree/main/olist_revenue_dashboard/sql_data_insertion_scripts)**.<br />
     ~ View the SQL analysis script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/olist_revenue_dashboard/olist_analytics.sql)**<br />
     ~ View the tableau dashboard **[HERE](https://public.tableau.com/app/profile/jake3064/viz/OlistRevenueAnalysis/Dashboard)**.<br />
-* ## **SQL & Tableau Projects**
-    **[Analyzing Channel Portfolios]()**.<br />
+* ## **SQL Analysis Projects**
+    ~ Analyzing Channel Portfolios, View script **[HERE](SQL_Analysis/analyzing_channel_portfolios.sql)**.<br />
     **[Business Patterns & Seasonality]()**.<br />
     **[Product Level Analysis]()**.<br />
 * ## **Python & Tableau Projects**
