@@ -55,6 +55,12 @@
     ~ View the Python data cleaning | variable creation | web scrape script **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/tottenham_analysis_dashboard/tottenham_analytics_data.ipynb)**<br />
     ~ View the tableau dashboard **[HERE](https://public.tableau.com/app/profile/jake3064/viz/tottenham_analytics/Dashboard2)**
 * ## **Excel Projects**
+   * **Monthly Sales Dashboard:**<br />
+   ~ Download the excel file **[HERE]()**<br />
+   This project includes:
+      * *Functions*
+      * *Analysis Dashboard*<br />
+![Monthly Sales Dashboard]()**<br />
    * **Marketing Campaign Response Analysis:**<br />
    ~ Download the excel file  **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/marketing_campaign_analysis/marketing_campaign.xlsm)**<br />
    This project includes:
