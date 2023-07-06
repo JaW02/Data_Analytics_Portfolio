@@ -60,7 +60,7 @@
    This project includes:
       * *Functions*
       * *Analysis Dashboard*<br />
-![Monthly Sales Dashboard]()**<br />
+![Monthly Sales Dashboard](Excel_Dashboards/MavenToys_Monthly_Sales_Dashboard.png "Monthly Sales Dashboard")<br />
    * **Marketing Campaign Response Analysis:**<br />
    ~ Download the excel file  **[HERE](https://github.com/JaW02/Data_Analytics_Portfolio/blob/main/marketing_campaign_analysis/marketing_campaign.xlsm)**<br />
    This project includes:
